@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <h1>Starting my React journey</h1>
-    <p>I'm excited to learn React and build my own projects.</p>
+    <p>I'm excited to learn React.</p>
     </>
   );
 }
